@@ -1,0 +1,9 @@
+
+.image{
+    max-width: 96%;
+    max-height: 100vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4px;
+}
