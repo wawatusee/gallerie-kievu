@@ -1,16 +1,19 @@
-
+header h1{
+ color: whitesmoke;
+ background-color: rgb(64, 69, 73);
+}
 .gallery-odessa{
-	overflow-y:scroll;
-    scroll-snap-destination: 0 0;
-    scroll-snap-type: y mandatory;
-    scroll-snap-type: mandatory;
-};
-.gallery-odessa img{
-    max-width: 96%;
     max-height: 100vh;
+    scroll-snap-type: y mandatory;
+    overflow-y: scroll;
+}
+.image{
+    max-width: 96%;
+    max-height: 94vh;
+    display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 4px;
-    scroll-snap-align:start;
-    scroll-snap-stop;
+    margin-bottom: 3px;
+    padding-bottom: 4px;
+    scroll-snap-align: start;
 }
