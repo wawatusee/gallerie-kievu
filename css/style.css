@@ -1,9 +1,16 @@
 
-.image{
+.gallery-odessa{
+	overflow-y:scroll;
+    scroll-snap-destination: 0 0;
+    scroll-snap-type: y mandatory;
+    scroll-snap-type: mandatory;
+};
+.gallery-odessa img{
     max-width: 96%;
     max-height: 100vh;
-    display: block;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 4px;
+    scroll-snap-align:start;
+    scroll-snap-stop;
 }
