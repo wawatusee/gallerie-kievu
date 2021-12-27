@@ -9,8 +9,9 @@ Emilie the photograph asked a gallery wich display all images vertical or horizo
 * srcset
 * scroll-snap-type: y mandatory;
 * entete de site avec titres
+* Pied de site avec liens FB insta tumblr et la série Odessa sur Muse
 
 ## ToDo
 
 * intégrer 2eme série "Odessa" avec même technique
-* Pied de site avec liens
+* Mise en forme pied de site
