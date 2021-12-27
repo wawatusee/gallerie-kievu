@@ -27,3 +27,12 @@ header h1{
     padding-top: 4px;
     scroll-snap-align: start;
 }
+/*Footer*/
+footer{
+    background-color: rgb(135, 135,135);
+    display: flex;
+    justify-content: space-around;
+}
+footer a{
+    color: whitesmoke;
+}
