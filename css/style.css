@@ -19,7 +19,7 @@ header h1{
     scroll-snap-type: y mandatory;
     overflow-y: scroll;
 }
-.image{
+.gallery-odessa img{
     max-width: 96%;
     max-height: 92vh;
     display: block;
