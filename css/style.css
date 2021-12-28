@@ -45,7 +45,7 @@ header h1 time{
 .author-links{
     display: flex;
     justify-content: center;
-    align-items: baseline;
+    align-items: flex-start;
     gap: 1.5em;
 }
 .logo-RS{
