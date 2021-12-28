@@ -40,16 +40,13 @@ header h1 time{
     margin: 2em;
 }
 .reference sup{
-    color: darkturquoise;
+    color: rgb(54, 39, 39);
 }
 .author-links{
     display: flex;
     justify-content: center;
     align-items: baseline;
     gap: 1.5em;
-}
-footer a{
-    color: whitesmoke;
 }
 .logo-RS{
     max-width: 2em;
