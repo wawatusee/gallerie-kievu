@@ -12,6 +12,10 @@ header h1{
  background-color: rgb(64, 69, 73);
  font-weight: lighter;
 }
+header h1 time{
+    background-color: white;
+    color: rgb(64, 69, 73);
+   }
 
 /*Main*/
 .gallery-odessa{

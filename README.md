@@ -10,8 +10,8 @@ Emilie the photograph asked a gallery wich display all images vertical or horizo
 * scroll-snap-type: y mandatory;
 * header with title date and author
 * Footer with links for FB insta tumblr and the reference for precedent publication on Muse
+* Design footer
 
 ## ToDo
 
 * intégrer 2eme série "Odessa" avec même technique
-* Mise en forme pied de site
