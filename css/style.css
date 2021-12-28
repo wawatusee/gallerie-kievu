@@ -31,8 +31,13 @@ header h1{
 footer{
     background-color: rgb(135, 135,135);
     display: flex;
-    justify-content: space-around;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
 }
 footer a{
     color: whitesmoke;
+}
+.logo-RS{
+    max-width: 30px;
 }
