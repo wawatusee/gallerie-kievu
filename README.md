@@ -4,12 +4,12 @@ Simple galerie
 First use for Odessa by Emilie Foudelman on kievu.com
 Emilie the photograph asked a gallery wich display all images vertical or horizontal one at the same size
 ## Done
-* Images intagrated without textes 
+* Images integrated without textes 
 * all images vertical or horizontal one at the same size(simple css on the image without flex)
-* srcset
+* srcset optimized for differents screens
 * scroll-snap-type: y mandatory;
-* entete de site avec titres
-* Pied de site avec liens FB insta tumblr et la série Odessa sur Muse
+* header with title date and author
+* Footer with links for FB insta tumblr and the reference for precedent publication on Muse
 
 ## ToDo
 
