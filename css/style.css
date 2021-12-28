@@ -1,9 +1,11 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 /*Header*/
 header{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items:baseline;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 header h1{
  color: whitesmoke;
@@ -13,13 +15,13 @@ header h1{
 
 /*Main*/
 .gallery-odessa{
-    max-height: 100vh;
+    max-height: 98vh;
     scroll-snap-type: y mandatory;
     overflow-y: scroll;
 }
 .image{
     max-width: 96%;
-    max-height: 94vh;
+    max-height: 92vh;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -28,16 +30,20 @@ header h1{
     scroll-snap-align: start;
 }
 /*Footer*/
-footer{
-    background-color: rgb(135, 135,135);
+.reference{
     display: flex;
-    flex-direction: column;
+    justify-content: center;
+    margin: 2em;
+}
+.author-links{
+    display: flex;
     justify-content: center;
     align-items: baseline;
+    gap: 1.5em;
 }
 footer a{
     color: whitesmoke;
 }
 .logo-RS{
-    max-width: 30px;
+    max-width: 2em;
 }
