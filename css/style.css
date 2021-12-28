@@ -39,6 +39,9 @@ header h1 time{
     justify-content: center;
     margin: 2em;
 }
+.reference sup{
+    color: darkturquoise;
+}
 .author-links{
     display: flex;
     justify-content: center;
