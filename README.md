@@ -18,4 +18,7 @@ Emilie the photograph asked a gallery wich display all images vertical or horizo
 * créer dossiers 2017 2018
 * Isoler dans dossier parent les dossiers CSS et DESIGN
 * modifier dans html les chemins référant au dossiers qui ont bougé
+* CHANGE FOR 2018
+* head: "title"
+* header  H1 : date datetime and value
 
