@@ -46,7 +46,9 @@ header h1 time{
     display: flex;
     justify-content: center;
     align-self: flex-start;
+    flex-wrap: wrap;
     gap: 1em;
+    list-style: none;
 }
 .logo-RS{
     max-width: 2em;
