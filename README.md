@@ -11,14 +11,16 @@ Emilie the photograph asked a gallery wich display all images vertical or horizo
 * header with title date and author
 * Footer with links for FB insta tumblr and the reference for precedent publication on Muse
 * Design footer
-
-## ToDo
-
+MULTIPLE
 * intégrer 2eme série "Odessa" 2018 avec même technique
 * créer dossiers 2017 2018
 * Isoler dans dossier parent les dossiers CSS et DESIGN
-* modifier dans html les chemins référant au dossiers qui ont bougé
+* html change root
 * CHANGE FOR 2018
 * head: "title"
-* header  H1 : date datetime and value
+* header  H1 : date datetime and his value
+## ToDo
+* The same in php
+
+
 
