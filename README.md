@@ -14,4 +14,8 @@ Emilie the photograph asked a gallery wich display all images vertical or horizo
 
 ## ToDo
 
-* intégrer 2eme série "Odessa" avec même technique
+* intégrer 2eme série "Odessa" 2018 avec même technique
+* créer dossiers 2017 2018
+* Isoler dans dossier parent les dossiers CSS et DESIGN
+* modifier dans html les chemins référant au dossiers qui ont bougé
+
