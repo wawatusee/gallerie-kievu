@@ -36,6 +36,7 @@ header h1 time{
 /*Footer*/
 .reference{
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     margin: 2em;
 }
