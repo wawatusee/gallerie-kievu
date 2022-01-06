@@ -40,6 +40,9 @@ header h1 time{
     justify-content: center;
     margin: 2em;
 }
+.logo-RS{
+    max-width: 2em;
+}
 .reference sup{
     color: rgb(54, 39, 39);
 }
@@ -48,9 +51,7 @@ header h1 time{
     justify-content: center;
     align-self: flex-start;
     flex-wrap: wrap;
-    gap: 1em;
+    gap: 4em;
     list-style: none;
 }
-.logo-RS{
-    max-width: 2em;
-}
+
