@@ -51,7 +51,7 @@ header h1 time{
     justify-content: center;
     align-self: flex-start;
     flex-wrap: wrap;
-    gap: 4em;
+    gap: 2em;
     list-style: none;
 }
 
