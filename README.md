@@ -23,7 +23,7 @@ MULTIPLE
 * The same in php
 Série de contenus dynamiques à automatiser:
 * balise title, ex:'<title>Odessa 2022-03-02</title>'
-* balise header, le <h1>Odessa<time datetime="2018-09-01"> 2018</time></h1>
+* balise header, le '<h1>Odessa<time datetime="2018-09-01"> 2018</time></h1>'
                 et  <q>by Emilie Foudelman</q>
 * dans la section gallery-odessa, properties de chaque balise img, src ex:src="img/emilie-foudelman/1024/DSCF0362.jpg"                                                                  srcset ex:
 srcset="img/emilie-foudelman/320/DSCF0362.jpg 320w,
