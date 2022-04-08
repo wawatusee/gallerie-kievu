@@ -21,6 +21,19 @@ MULTIPLE
 * header  H1 : date datetime and his value
 ## ToDo
 * The same in php
+Série de contenus dynamiques à automatiser:
+* balise title, ex:'<title>Odessa 2022-03-02</title>'
+* balise header, le <h1>Odessa<time datetime="2018-09-01"> 2018</time></h1>
+                et  <q>by Emilie Foudelman</q>
+* dans la section gallery-odessa, properties de chaque balise img, src ex:src="img/emilie-foudelman/1024/DSCF0362.jpg"                                                                  srcset ex:
+srcset="img/emilie-foudelman/320/DSCF0362.jpg 320w,
+        img/emilie-foudelman/640/DSCF0362.jpg 640w,
+        img/emilie-foudelman/768/DSCF0362.jpg 768w"
+et alt  ex:
+alt=""
+* dans le footer balise small ex: <small>Photographs: David Grigoryan</small>
+* dans le footer dans la liste author-links le href de chaque reseaux social ex:<a href="https://emi-fou-photography-blog.tumblr.com/"
+C'est tout, 5 éléments.
 
 
 
