@@ -34,6 +34,3 @@ alt=""
 * dans le footer balise small ex: <small>Photographs: David Grigoryan</small>
 * dans le footer dans la liste author-links le href de chaque reseaux social ex:<a href="https://emi-fou-photography-blog.tumblr.com/"
 C'est tout, 5 éléments.
-
-
-readme
